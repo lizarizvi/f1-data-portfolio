@@ -10,8 +10,8 @@ Analysis of pit stop performance during the 2023 Qatar Grand Prix, focused on pi
 
 ## Key Insights
 - Average fastest pit stop of 27.864 seconds was by Ferrari
-- RBR showed the widest spread in pit stop, ~5-sec gap between VER's stops and PER's stops
-- Outliers were RUS(lap 1 due to repair work), GAS(lap 44 - just above the threshold) and HUL(lap 13 due to 10-sec penalty) with pit stop time above the threshold calculated
+- ORBR showed the widest spread in pit stop, ~5-sec gap between VER's stops and PER's stops
+- Outliers were RUS(lap 1 due to repair work), GAS(lap 44 - maybe pit-crew inconsistency) and HUL(lap 13 due to 10-sec penalty) with pit stop time above the threshold calculated
 
 ## Charts
 - Average pit stop time by team

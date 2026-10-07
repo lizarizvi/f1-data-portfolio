@@ -8,9 +8,9 @@ Analyzed lap times, sector times, and consistency across all drivers in the 2023
 - Identified where on track each driver gains or loses time
 
 ## Key insight
-- PIA had the fastest average race pace while OCO was the most consistent among the top 10 finishers.
+- PIA had the fastest average race pace while VER was the most consistent among the top 5 finishers.
 - RUS and LEC were the drivers among top 5 that showed the sharp upward trend which could likely be the tyre degradation.
-- Among the top 10 finishers, BOT lost ~0.753 secs in sector 1 which was the biggest gap to PIA who was fastest.
+- Among the top 5 finishers, LEC lost ~0.421 secs in sector 1 which was the biggest gap to PIA who was fastest.
 - VER had the fastest lap overall with laptime of 84.319 seconds.
 
 ## Charts
